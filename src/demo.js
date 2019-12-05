@@ -1,0 +1,1 @@
+export const varible = 'ceshi data';
